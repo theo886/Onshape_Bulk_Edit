@@ -1,0 +1,5 @@
+{
+  "name": "Onshape Bulk Property Editor",
+  "description": "An application to bulk edit Onshape part properties by pasting data from a spreadsheet. Map columns to Onshape properties and sync changes in one go.",
+  "requestFramePermissions": []
+}
